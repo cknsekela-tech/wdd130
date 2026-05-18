@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header, footer{
+  background-color: #000080;
+  color: #ffffff;
+  padding: 1rem;
+  text-align: center;
+}
+
+header{
+  font-size: 32px;
+}
+
+main{
+  width: 500px;
+}
+
+picture img{
+  width: 350px;
+  height: auto;
+  border: 1px solid #000000;
+  box-shadow: 0 0 30px #333333;
+}
+
+section{
+  margin: 1rem;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: .1rem;
+  background-color: blanchedalmond;
+}
+
+footer{
+  margin: 0 auto;
+  font-size: .9rem;
+}
