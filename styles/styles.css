@@ -9,6 +9,11 @@ main {
   max-width: 840px
 }
 
+nav {
+  background-color: #147BC1;
+  padding: 1rem;            
+}
+
 nav a {
   color: white;
   padding: 10px;
